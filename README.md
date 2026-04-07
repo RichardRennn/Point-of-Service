@@ -1,4 +1,4 @@
-# TokoPOS — Refactored
+# Toko Semeru POS
 
 Aplikasi POS berbasis PyQt5 untuk Tokopedia Seller Center.
 
